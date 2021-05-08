@@ -57,7 +57,7 @@ Response :
     "name": "string",
     "address": "string",
     "vehiclesDensityInMinutes": "number",
-    "intersection": [
+    "intersections": [
       {
         "name": "string",
         "waitingTimeInSeconds": "number",
